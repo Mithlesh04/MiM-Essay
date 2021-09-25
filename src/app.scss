@@ -1,0 +1,13 @@
+
+.input{
+    font-size: 18px;
+    border-top:unset;
+    border-left:unset;
+    border-right:unset;
+    border-bottom : 1px solid black ;
+    min-width : 40px;
+    text-align: center;
+    &:focus-visible,&:active,&:hover,&:focus{
+       outline: none;
+    }
+}

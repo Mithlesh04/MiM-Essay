@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+## PROJECT
+
+    Create a button that once clicked creates a phone verification popup, with the following conditions:
+    The user can enter only a 6 digit OTP (No other characters are allowed)
+    Once a digit is entered,
+    the focus should move to the next input
+    Backspace should delete the input and focus on the previous input
+    The user can navigate the input boxes with arrow keys
+    If the user pastes the OTP from the clipboard, it should auto-fill the input boxes
