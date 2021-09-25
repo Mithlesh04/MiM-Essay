@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MiM-Essay/static/css/main.2e56326e.chunk.css",
+    "main.js": "/MiM-Essay/static/js/main.63559eea.chunk.js",
+    "main.js.map": "/MiM-Essay/static/js/main.63559eea.chunk.js.map",
+    "runtime-main.js": "/MiM-Essay/static/js/runtime-main.6d63fb32.js",
+    "runtime-main.js.map": "/MiM-Essay/static/js/runtime-main.6d63fb32.js.map",
+    "static/js/2.885ef182.chunk.js": "/MiM-Essay/static/js/2.885ef182.chunk.js",
+    "static/js/2.885ef182.chunk.js.map": "/MiM-Essay/static/js/2.885ef182.chunk.js.map",
+    "static/js/3.9e72bb18.chunk.js": "/MiM-Essay/static/js/3.9e72bb18.chunk.js",
+    "static/js/3.9e72bb18.chunk.js.map": "/MiM-Essay/static/js/3.9e72bb18.chunk.js.map",
+    "index.html": "/MiM-Essay/index.html",
+    "static/css/main.2e56326e.chunk.css.map": "/MiM-Essay/static/css/main.2e56326e.chunk.css.map",
+    "static/js/2.885ef182.chunk.js.LICENSE.txt": "/MiM-Essay/static/js/2.885ef182.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d63fb32.js",
+    "static/js/2.885ef182.chunk.js",
+    "static/css/main.2e56326e.chunk.css",
+    "static/js/main.63559eea.chunk.js"
+  ]
+}
