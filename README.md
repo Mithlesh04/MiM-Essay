@@ -73,7 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-## PROJECT
+## PROJECT -- OTP Verification
 
     Create a button that once clicked creates a phone verification popup, with the following conditions:
     The user can enter only a 6 digit OTP (No other characters are allowed)
